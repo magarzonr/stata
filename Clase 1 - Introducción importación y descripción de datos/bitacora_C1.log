@@ -1,0 +1,256 @@
+----------------------------------------------------------------------------------------------
+      name:  <unnamed>
+       log:  G:\Mi unidad\4_DOCENCIA\Taller de Stata\2020-II\4 - Clases\Clase 1 - Introducción
+>  importación y descripción de datos\bitacora_C1.log
+  log type:  text
+ opened on:  11 Aug 2020, 04:08:18
+
+. * En el comando anterior se añadió la opción replace por si ya existía un archivo con este n
+> ombre 
+. * Sino se especifica el formato de texto .log, por defecto, Stata crea un archivo con extens
+> ión .smcl
+. 
+. * 2. Repitamos los comandos de la exploración que hicimos anteriormente
+.         cd "G:\Mi unidad\4_DOCENCIA\Taller de Stata\2020-II\4 - Clases\Clase 1 - Introducció
+> n importación y descripción de datos" 
+G:\Mi unidad\4_DOCENCIA\Taller de Stata\2020-II\4 - Clases\Clase 1 - Introducción importación 
+> y descripción de datos
+
+.         use "notas", clear  
+
+.         describe // 3. Expore la base base de datos
+
+Contains data from notas.dta
+  obs:            36                          
+ vars:             9                          6 Feb 2018 16:34
+----------------------------------------------------------------------------------------------
+              storage   display    value
+variable name   type    format     label      variable label
+----------------------------------------------------------------------------------------------
+codigo          str9    %9s                   
+genero          str1    %9s                   
+col_mixto       byte    %8.0g                 
+parcial1        float   %8.0g                 
+parcial2        float   %8.0g                 
+e_final         float   %4.0g                 
+e_final2        float   %8.0g                 
+n_max           float   %9.0g                 
+n_def           float   %9.0g                 
+----------------------------------------------------------------------------------------------
+Sorted by: 
+
+.         codebook
+
+----------------------------------------------------------------------------------------------
+codigo                                                                             (unlabeled)
+----------------------------------------------------------------------------------------------
+
+                  type:  string (str9)
+
+         unique values:  36                       missing "":  0/36
+
+              examples:  "200412009"
+                         "200711346"
+                         "200723329"
+                         "200821681"
+
+----------------------------------------------------------------------------------------------
+genero                                                                             (unlabeled)
+----------------------------------------------------------------------------------------------
+
+                  type:  string (str1)
+
+         unique values:  2                        missing "":  0/36
+
+            tabulation:  Freq.  Value
+                            18  "h"
+                            18  "m"
+
+----------------------------------------------------------------------------------------------
+col_mixto                                                                          (unlabeled)
+----------------------------------------------------------------------------------------------
+
+                  type:  numeric (byte)
+
+                 range:  [0,1]                        units:  1
+         unique values:  2                        missing .:  0/36
+
+            tabulation:  Freq.  Value
+                            12  0
+                            24  1
+
+----------------------------------------------------------------------------------------------
+parcial1                                                                           (unlabeled)
+----------------------------------------------------------------------------------------------
+
+                  type:  numeric (float)
+
+                 range:  [2,98]                       units:  .01
+         unique values:  17                       missing .:  0/36
+
+                  mean:   6.22361
+              std. dev:   15.7464
+
+           percentiles:        10%       25%       50%       75%       90%
+                               2.7      3.15      3.75     4.075       4.5
+
+----------------------------------------------------------------------------------------------
+parcial2                                                                           (unlabeled)
+----------------------------------------------------------------------------------------------
+
+                  type:  numeric (float)
+
+                 range:  [0,5]                        units:  .01
+         unique values:  11                       missing .:  0/36
+
+                  mean:   2.52639
+              std. dev:   1.57178
+
+           percentiles:        10%       25%       50%       75%       90%
+                                 0      1.55         3      3.75      4.05
+
+----------------------------------------------------------------------------------------------
+e_final                                                                            (unlabeled)
+----------------------------------------------------------------------------------------------
+
+                  type:  numeric (float)
+
+                 range:  [.9,5]                       units:  .01
+         unique values:  23                       missing .:  0/36
+       unique mv codes:  2                       missing .*:  5/36
+
+                  mean:   2.76935
+              std. dev:   1.11413
+
+           percentiles:        10%       25%       50%       75%       90%
+                              1.25         2       2.8       3.9         4
+
+----------------------------------------------------------------------------------------------
+e_final2                                                                           (unlabeled)
+----------------------------------------------------------------------------------------------
+
+                  type:  numeric (float)
+
+                 range:  [.9,99]                      units:  .01
+         unique values:  24                       missing .:  0/36
+
+                  mean:   16.0569
+              std. dev:   33.5552
+
+           percentiles:        10%       25%       50%       75%       90%
+                               1.3         2      3.05         4        98
+
+----------------------------------------------------------------------------------------------
+n_max                                                                              (unlabeled)
+----------------------------------------------------------------------------------------------
+
+                  type:  numeric (float)
+
+                 range:  [5,5]                        units:  1
+         unique values:  1                        missing .:  0/36
+
+            tabulation:  Freq.  Value
+                            36  5
+
+----------------------------------------------------------------------------------------------
+n_def                                                                              (unlabeled)
+----------------------------------------------------------------------------------------------
+
+                  type:  numeric (float)
+
+                 range:  [1.125,4.875]                units:  1.000e-07
+         unique values:  30                       missing .:  5/36
+
+                  mean:   2.91774
+              std. dev:   .927675
+
+           percentiles:        10%       25%       50%       75%       90%
+                               1.6     2.375    2.9125     3.625     4.025
+
+.         tabulate genero // 4. Explore variables categóricas
+
+     genero |      Freq.     Percent        Cum.
+------------+-----------------------------------
+          h |         18       50.00       50.00
+          m |         18       50.00      100.00
+------------+-----------------------------------
+      Total |         36      100.00
+
+.         tab col_mixto, missing
+
+  col_mixto |      Freq.     Percent        Cum.
+------------+-----------------------------------
+          0 |         12       33.33       33.33
+          1 |         24       66.67      100.00
+------------+-----------------------------------
+      Total |         36      100.00
+
+.         summarize n_def // 5. Explore variables continuas
+
+    Variable |        Obs        Mean    Std. Dev.       Min        Max
+-------------+---------------------------------------------------------
+       n_def |         31    2.917742    .9276751      1.125      4.875
+
+.         sum parcial1 parcial2
+
+    Variable |        Obs        Mean    Std. Dev.       Min        Max
+-------------+---------------------------------------------------------
+    parcial1 |         36    6.223611    15.74644          2         98
+    parcial2 |         36    2.526389    1.571782          0          5
+
+.         sort n_def // 6. Organice la base de datos
+
+.         gsort -parcial1 +n_def
+
+.         
+. * 3. Cierre el registro en el log-file
+. log close
+      name:  <unnamed>
+       log:  G:\Mi unidad\4_DOCENCIA\Taller de Stata\2020-II\4 - Clases\Clase 1 - Introducción
+>  importación y descripción de datos\bitacora_C1.log
+  log type:  text
+ closed on:  11 Aug 2020, 04:08:18
+----------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------
+      name:  <unnamed>
+       log:  G:\Mi unidad\4_DOCENCIA\Taller de Stata\2020-II\4 - Clases\Clase 1 - Introducción
+>  importación y descripción de datos\bitacora_C1.log
+  log type:  text
+ opened on:  11 Aug 2020, 04:08:18
+
+. 
+. * 6. ¿Cómo "apagar" y "prender" un log-file? 
+. dis "Lo que voy a hacer abajo no aparece"
+Lo que voy a hacer abajo no aparece
+
+. log off // "Apagando" el log 
+      name:  <unnamed>
+       log:  G:\Mi unidad\4_DOCENCIA\Taller de Stata\2020-II\4 - Clases\Clase 1 - Introducción
+>  importación y descripción de datos\bitacora_C1.log
+  log type:  text
+ paused on:  11 Aug 2020, 04:08:18
+----------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------
+      name:  <unnamed>
+       log:  G:\Mi unidad\4_DOCENCIA\Taller de Stata\2020-II\4 - Clases\Clase 1 - Introducción
+>  importación y descripción de datos\bitacora_C1.log
+  log type:  text
+resumed on:  11 Aug 2020, 04:08:18
+
+. display "Pero ahora si aparece"
+Pero ahora si aparece
+
+. describe codigo
+
+              storage   display    value
+variable name   type    format     label      variable label
+----------------------------------------------------------------------------------------------
+codigo          str9    %9s                   
+
+. log close
+      name:  <unnamed>
+       log:  G:\Mi unidad\4_DOCENCIA\Taller de Stata\2020-II\4 - Clases\Clase 1 - Introducción
+>  importación y descripción de datos\bitacora_C1.log
+  log type:  text
+ closed on:  11 Aug 2020, 04:08:18
+----------------------------------------------------------------------------------------------

@@ -1,0 +1,1132 @@
+cod_dpto,cod_mpio,Municipios,NBI
+11,001,Bogotá,17.28
+91,001,Leticia,50.07
+91,263,CD. El Encanto,100.00
+91,405,CD. La Chorrera,100.00
+91,407,CD. La Pedrera,100.00
+91,430,CD. La Victoria1,100.00
+91,460,CD. Miriti-Parana,100.00
+91,530,CD.Puerto Alegría2,100.00
+91,536,CD. Puerto Arica3,100.00
+91,540,Puerto Nariño,100.00
+91,669,CD. Puerto Santander,100.00
+91,798,CD. Tarapaca,100.00
+05,001,Medellín,16.08
+05,002,Abejorral,43.61
+05,004,Abriaqui,45.56
+05,021,Alejandría,56.46
+05,030,Amaga,31.66
+05,031,Amalfi,53.79
+05,034,Andes,36.82
+05,036,Angelopolis,38.23
+05,038,Angostura,59.58
+05,040,Anorí,68.06
+05,042,Antioquia,54.56
+05,044,Anza,70.15
+05,045,Apartado,51.38
+05,051,Arboletes,79.59
+05,055,Argelia,59.90
+05,059,Armenia,44.99
+05,079,Barbosa,33.68
+05,086,Belmira,35.14
+05,088,Bello,16.30
+05,091,Betania,41.22
+05,093,Betulia,57.20
+05,101,Bolívar,39.65
+05,107,Briceño,73.12
+05,113,Buritica,68.56
+05,120,Cáceres,72.07
+05,125,Caicedo,73.91
+05,129,Caldas,18.25
+05,134,Campamento,64.26
+05,138,Cañasgordas,61.10
+05,142,Caracolí,49.46
+05,145,Caramanta,36.52
+05,147,Carepa,57.91
+05,148,Carmen De Viboral,35.39
+05,150,Carolina,27.95
+05,154,Caucasia,49.50
+05,172,Chigorodó,58.18
+05,190,Cisneros,34.66
+05,197,Cocorná,62.08
+05,206,Concepción,51.71
+05,209,Concordia,49.64
+05,212,Copacabana,20.90
+05,234,Dabeiba,72.86
+05,237,Don Matías,23.98
+05,240,Ebejico,48.24
+05,250,El Bagre,63.78
+05,264,Entrerrios,23.38
+05,266,Envigado,9.15
+05,282,Fredonia,31.61
+05,284,Frontino,54.44
+05,306,Giraldo,53.86
+05,308,Girardota,22.28
+05,310,Gómez Plata,41.39
+05,313,Granada,46.03
+05,315,Guadalupe,59.90
+05,318,Guarne,35.92
+05,321,Guatapé,26.55
+05,347,Heliconia,44.98
+05,353,Hispania,41.65
+05,360,Itagui,12.30
+05,361,Ituango,75.39
+05,364,Jardín,35.48
+05,368,Jericó,29.80
+05,376,La Ceja,20.45
+05,380,La Estrella,18.58
+05,390,La Pintada4,43.70
+05,400,La Unión,28.45
+05,411,Liborina,41.47
+05,425,Maceo,48.48
+05,440,Marinilla,29.39
+05,467,Montebello,45.03
+05,475,Murindó,99.91
+05,480,Mutatá,69.60
+05,483,Nariño,50.03
+05,490,Necoclí,83.27
+05,495,Nechí,66.88
+05,501,Olaya,51.67
+05,541,Peñol,32.93
+05,543,Peque,81.23
+05,576,Pueblorrico,38.81
+05,579,Puerto Berrío,42.41
+05,585,Puerto Nare (La Magdalena),49.47
+05,591,Puerto Triunfo,46.20
+05,604,Remedios,53.34
+05,607,Retiro,25.94
+05,615,Rionegro,17.57
+05,628,Sabanalarga,62.55
+05,631,Sabaneta,10.79
+05,642,Salgar,46.07
+05,647,San Andrés,54.90
+05,649,San Carlos,53.60
+05,652,San Francisco,76.57
+05,656,San Jerónimo,39.69
+05,658,San José De La Montaña,30.18
+05,659,San Juan De Uraba,89.27
+05,660,San Luis,58.25
+05,664,San Pedro,30.58
+05,665,San Pedro De Uraba,84.37
+05,667,San Rafael,57.78
+05,670,San Roque,53.83
+05,674,San Vicente,56.27
+05,679,Santa Bárbara,37.00
+05,686,Santa Rosa De Osos,28.78
+05,690,Santo Domingo,42.41
+05,697,Santuario,31.72
+05,736,Segovia,52.84
+05,756,Sonson,34.93
+05,761,Sopetrán,41.47
+05,789,Támesis,33.57
+05,790,Taraza,70.39
+05,792,Tarso,46.32
+05,809,Titiribí,40.76
+05,819,Toledo,70.00
+05,837,Turbo,70.12
+05,842,Uramita,75.54
+05,847,Urrao,58.80
+05,854,Valdivia,65.19
+05,856,Valparaíso,40.51
+05,858,Vegachi,60.73
+05,861,Venecia,36.34
+05,873,Vigía Del Fuerte,94.70
+05,885,Yali,61.15
+05,887,Yarumal,39.98
+05,890,Yolombó,43.54
+05,893,Yondó,70.64
+05,895,Zaragoza,68.86
+81,001,Arauca,43.34
+81,065,Arauquita,64.84
+81,220,Cravo Norte,59.72
+81,300,Fortul,71.47
+81,591,Puerto Rondón,61.22
+81,736,Saravena,45.33
+81,794,Tame,57.68
+08,001,Barranquilla,27.76
+08,078,Baranoa,31.06
+08,137,Campo de la Cruz,62.12
+08,141,Candelaria,75.86
+08,296,Galapa,35.11
+08,372,Juan de Acosta,39.11
+08,421,Luruaco,52.32
+08,433,Malambo,35.89
+08,436,Manatí,69.23
+08,520,Palmar De Varela,53.68
+08,549,Piojó,44.09
+08,558,Polo Nuevo,41.08
+08,560,Ponedera,52.68
+08,573,Puerto Colombia,35.51
+08,606,Repelón,61.13
+08,634,Sabanagrande,42.66
+08,638,Sabanalarga,36.18
+08,675,Santa Lucia,67.67
+08,685,Santo Tomas,48.01
+08,758,Soledad,23.01
+08,770,Suan,61.42
+08,832,Tubará,41.92
+08,849,Usiacurí,50.12
+13,001,Cartagena,33.07
+13,006,Achí5a,89.16
+13,030,Altos del Rosario5,84.20
+13,042,Arenal6,90.00
+13,052,Arjona,61.07
+13,062,Arroyohondo7,63.50
+13,074,Barranco de Loba,79.40
+13,140,Calamar,63.20
+13,160,Cantagallo8,83.70
+13,188,Cicuco9,75.70
+13,212,Córdoba,83.99
+13,222,Clemencia10,64.80
+13,244,El Carmen de Bolívar,72.65
+13,248,El Guamo,74.24
+13,268,El Peñon11,84.20
+13,300,Hatillo de Loba12,84.40
+13,430,Magangue,64.32
+13,433,Mahates,66.94
+13,440,Margarita,84.76
+13,442,Maria la Baja,70.46
+13,458,Montecristo13,89.60
+13,468,Mompos,52.30
+13,473,Morales,86.11
+13,549,Pinillos5a,84.03
+13,580,Regidor14,94.30
+13,600,Río Viejo,90.04
+13,620,San Cristobal15,46.50
+13,647,San Estanislao,65.57
+13,650,San Fernando,83.89
+13,654,San Jacinto,92.54
+13,655,San Jacinto del Cauca16,89.60
+13,657,San Juan Nepomuceno,61.71
+13,667,San Martín de Loba,80.77
+13,670,San Pablo,77.07
+13,673,Santa Catalina,69.97
+13,683,Santa Rosa,94.72
+13,688,Santa Rosa del Sur,77.83
+13,744,Simití,80.47
+13,760,Soplaviento,57.32
+13,780,Talaigua Nuevo,74.33
+13,810,Tiquisio17,85.50
+13,836,Turbaco,43.29
+13,838,Turbaná,85.34
+13,873,Villanueva,77.82
+13,894,Zambrano,67.15
+15,001,Tunja,19.39
+15,022,Almeida,46.87
+15,047,Aquitania,53.00
+15,051,Arcabuco,40.63
+15,087,Belén,41.99
+15,090,Berbeo,64.90
+15,092,Beteitiva,57.08
+15,097,Boavita,51.33
+15,104,Boyacá,53.79
+15,106,Briceño,54.06
+15,109,Buenavista,58.38
+15,114,Busbanza,50.00
+15,131,Caldas,43.67
+15,135,Campohermoso,55.84
+15,162,Cerinza,33.80
+15,172,Chinavita,31.32
+15,176,Chiquinquirá,28.17
+15,180,Chiscas,59.13
+15,183,Chita,69.66
+15,185,Chitaraque,62.15
+15,187,Chivata,43.23
+15,189,Ciénega,43.33
+15,204,Combita,38.29
+15,212,Coper,58.97
+15,215,Corrales,39.49
+15,218,Covarachia,73.31
+15,223,Cubara,78.41
+15,224,Cucaita,49.12
+15,226,Cuitiva,34.62
+15,232,Chiquiza,60.11
+15,236,Chivor,46.34
+15,238,Duitama,16.58
+15,244,El Cocuy,58.00
+15,248,El Espino,46.50
+15,272,Firavitoba,33.95
+15,276,Floresta,46.53
+15,293,Gachantiva,55.38
+15,296,Gameza,47.00
+15,299,Garagoa,26.74
+15,317,Guacamayas,44.51
+15,322,Guateque,25.30
+15,325,Guayata,32.39
+15,332,Guican,61.08
+15,362,Iza,30.12
+15,367,Jenesano,46.68
+15,368,Jericó,69.88
+15,377,Labranzagrande,81.18
+15,380,La Capilla,34.58
+15,401,La Victoria,71.02
+15,403,La Uvita,50.50
+15,407,Leiva,36.49
+15,425,Macanal,44.13
+15,442,Maripi,76.36
+15,455,Miraflores,34.72
+15,464,Mongua,49.68
+15,466,Monguí,29.46
+15,469,Moniquirá,41.43
+15,476,Motavita,41.62
+15,480,Muzo,49.09
+15,491,Nobsa,14.40
+15,494,Nuevo Colón,39.57
+15,500,Oicata,39.43
+15,507,Otanche,60.84
+15,511,Pachavita,49.26
+15,514,Páez,48.06
+15,516,Paipa,24.41
+15,518,Pajarito,51.06
+15,522,Panqueba,54.72
+15,531,Pauna,59.21
+15,533,Paya,91.10
+15,537,Paz del Río,32.25
+15,542,Pesca,49.03
+15,550,Pisba,84.54
+15,572,Puerto Boyacá,39.28
+15,580,Quipama,58.17
+15,599,Ramiriquí,50.89
+15,600,Ráquira,64.92
+15,621,Rondón,52.13
+15,632,Saboya,60.65
+15,638,Sáchica,44.38
+15,646,Samacá,40.31
+15,660,San Eduardo,53.01
+15,664,San José de Pare,41.71
+15,667,San Luis de Gaceno,52.93
+15,673,San Mateo,57.04
+15,676,San Miguel de Sema,35.24
+15,681,San Pablo de Borbur,51.36
+15,686,Santana,40.87
+15,690,Santa Maria,47.13
+15,693,Santa Rosa de Viterbo,29.66
+15,696,Santa Sofía,47.03
+15,720,Sativanorte,57.22
+15,723,Sativasur,39.99
+15,740,Siachoque,50.58
+15,753,Soata,54.00
+15,755,Socota,70.09
+15,757,Socha,38.77
+15,759,Sogamoso,20.74
+15,761,Somondoco,43.60
+15,762,Sora,48.40
+15,763,Sotaquirá,36.54
+15,764,Soracá,54.35
+15,774,Susacon,60.99
+15,776,Sutamarchán,60.02
+15,778,Sutatenza,39.02
+15,790,Tasco,41.78
+15,798,Tenza,29.76
+15,804,Tibaná,50.25
+15,806,Tibasosa,22.17
+15,808,Tinjacá,58.83
+15,810,Tipacoque,66.25
+15,814,Toca,43.86
+15,816,Toguí,54.64
+15,820,Topaga,34.95
+15,822,Tota,49.35
+15,832,Tunungua,58.87
+15,835,Turmequé,38.81
+15,837,Tuta,38.24
+15,839,Tutasa,60.70
+15,842,Umbita,58.60
+15,861,Ventaquemada,38.20
+15,879,Viracacha,38.64
+15,897,Zetaquira,51.85
+17,001,Manizales,15.58
+17,013,Aguadas,39.59
+17,042,Anserma,27.40
+17,050,Aranzazu,30.17
+17,088,Belalcazar,40.16
+17,174,Chinchiná,26.75
+17,272,Filadelfia,32.65
+17,380,La Dorada,30.84
+17,388,La Merced,40.46
+17,433,Manzanares,37.89
+17,442,Marmato,38.62
+17,444,Marquetalia,37.33
+17,446,Marulanda,34.81
+17,486,Neira,30.96
+17,495,Norcasia18,60.84
+17,513,Pacora,32.31
+17,524,Palestina,36.60
+17,541,Pensilvania,36.56
+17,614,Riosucio,68.03
+17,616,Risaralda,32.95
+17,653,Salamina,29.47
+17,662,Samana,56.30
+17,665,San Jose19,35.20
+17,777,Supía,36.33
+17,867,Victoria,46.29
+17,873,Villamaría,19.26
+17,877,Viterbo,31.02
+18,001,Florencia,36.23
+18,029,Albania,57.40
+18,094,Belén Andaquies,54.40
+18,150,Cartagena del Chaira,76.02
+18,205,Curillo,67.10
+18,247,El Doncello,40.67
+18,256,El Paujil,54.96
+18,410,La Montañita,71.76
+18,460,Milán,79.13
+18,479,Morelia,49.84
+18,592,Puerto Rico,74.78
+18,610,San José de Fragua,64.88
+18,753,San  Vicente del Caguan,81.49
+18,756,Solano,77.56
+18,785,Solita20,64.70
+18,860,Valparaíso,63.00
+85,001,Yopal,40.09
+85,010,Aguazul,42.94
+85,015,Chameza,39.59
+85,125,Hato Corozal,57.31
+85,136,La Salina,84.01
+85,139,Maní,53.79
+85,162,Monterrey,39.30
+85,225,Nunchia,81.34
+85,230,Orocue,75.19
+85,250,Paz de Ariporo,57.46
+85,263,Pore,64.61
+85,279,Recetor,48.25
+85,300,Sabanalarga,47.59
+85,315,Sacama,63.49
+85,325,San Luis de Palenque,66.92
+85,400,Tamara,79.52
+85,410,Tauramena,52.43
+85,430,Trinidad,52.45
+85,440,Villanueva,45.90
+19,001,Popayán,22.17
+19,022,Almaguer,76.91
+19,050,Argelia,83.65
+19,075,Balboa,61.66
+19,100,Bolívar,66.77
+19,110,Buenos Aires,61.07
+19,130,Cajibio,66.60
+19,137,Caldono,80.91
+19,142,Caloto,50.85
+19,212,Corinto,60.81
+19,256,El Tambo,67.47
+19,290,Florencia,57.74
+19,318,Guapi,68.10
+19,355,Inza,76.59
+19,364,Jambaló,100.00
+19,392,La Sierra,70.32
+19,397,La Vega,79.39
+19,418,López,64.20
+19,450,Mercaderes,62.40
+19,455,Miranda,40.00
+19,473,Morales,78.49
+19,513,Padilla,46.03
+19,517,Páez,87.12
+19,532,Patia (El Bordo),56.96
+19,533,Piamonte21,78.80
+19,548,Piendamo,47.51
+19,573,Puerto Tejada,31.71
+19,585,Purace,89.64
+19,622,Rosas,62.90
+19,693,San Sebastián,73.25
+19,698,Santander de Quilichao,38.20
+19,701,Santa Rosa,76.83
+19,743,Silvia,80.03
+19,760,Sotara,67.16
+19,780,Suárez,70.23
+19,785,Sucre22,71.40
+19,807,Timbío,39.62
+19,809,Timbiquí,77.82
+19,821,Toribio,99.89
+19,824,Totoro,85.66
+19,845,Villa Rica23,51.50
+20,001,Valledupar,42.73
+20,011,Aguachica,51.99
+20,013,Agustín Codazzi,56.50
+20,032,Astrea,76.24
+20,045,Becerril,71.16
+20,060,Bosconia,64.09
+20,175,Chimichagua,72.84
+20,178,Chiriguaná,68.36
+20,228,Curumaní,68.73
+20,238,El Copey,61.03
+20,250,El Paso,75.75
+20,295,Gamarra,59.55
+20,310,González,60.28
+20,383,La Gloria,66.33
+20,400,La Jagua Ibirico,71.81
+20,443,Manaure Balcón Del Cesar,64.53
+20,517,Pailitas,62.49
+20,550,Pelaya24,68.50
+20,570,Pueblo Bello25,71.00
+20,614,Río De Oro,65.27
+20,621,Robles (La Paz),59.11
+20,710,San Alberto,44.89
+20,750,San Diego,58.49
+20,770,San Martín,60.63
+20,787,Tamalameque24,69.54
+23,001,Montería,49.72
+23,068,Ayapel,74.56
+23,079,Buenavista,71.67
+23,090,Canalete,90.64
+23,162,Cereté,55.33
+23,168,Chima,69.66
+23,182,Chinú,62.59
+23,189,Cienaga De Oro,62.23
+23,300,Cotorra26,76.90
+23,350,La Apartada27,79.80
+23,417,Lorica,70.60
+23,419,Los Córdobas,87.70
+23,464,Momil,73.43
+23,466,Montelíbano,61.27
+23,500,Moñitos,82.06
+23,555,Planeta Rica,60.59
+23,570,Pueblo Nuevo,74.43
+23,574,Puerto Escondido,86.53
+23,580,Puerto Libertador,77.11
+23,586,Purísima,78.27
+23,660,Sahagún,66.15
+23,670,San Andrés Sotavento,92.31
+23,672,San Antero,83.34
+23,675,San Bernardo Viento,81.05
+23,678,San Carlos,78.97
+23,686,San Pelayo,73.11
+23,807,Tierralta,78.49
+23,855,Valencia,79.67
+27,1,Quibdó,80.95
+27,6,Acandi,68.63
+27,25,Alto Baudo(Pie De Pato),99.15
+27,50,Atrato28,94.30
+27,73,Bagado,67.63
+27,75,Bahia Solano (Mutis),41.22
+27,77,Bajo Baudo (Pizarro),81.97
+27,086,Belén de Bajirá29,
+27,99,Bojaya (Bellavista),83.05
+27,135,Canton De San Pablo30,80.40
+27,150,Carmen Del Darien31,94.00
+27,160,Certegui32,78.30
+27,205,Condoto,88.34
+27,245,El Carmen,46.53
+27,250,Litoral Del San Juan,90.69
+27,361,Istmina,80.55
+27,372,Jurado,67.23
+27,413,Lloro,93.31
+27,425,Medio Atrato33,94.30
+27,430,Medio Baudo (Boca De Pepe)34,91.10
+27,450,Medio San Juan35,80.40
+27,491,Novita,55.55
+27,495,Nuqui,59.74
+27,580,Rio Iro36,78.20
+27,600,Rio Quito37,94.30
+27,615,Riosucio,94.82
+27,660,San Jose Del Palmar,72.18
+27,745,Sipi,96.07
+27,787,Tado,84.05
+27,800,Unguia,74.66
+27,810,Union Panamericana38,80.40
+25,001,Agua de Dios,28.65
+25,019,Alban,31.76
+25,035,Anapoima,39.56
+25,040,Anolaima,39.40
+25,053,Arbelaez,40.57
+25,086,Beltrán,48.28
+25,095,Bituima,53.31
+25,099,Bojacá,34.95
+25,120,Cabrera,45.02
+25,123,Cachipay,35.98
+25,126,Cajicá,24.08
+25,148,Caparrapí,61.08
+25,151,Caqueza,38.96
+25,154,Carmen de Carupa,46.75
+25,168,Chaguaní,47.58
+25,175,Chia,16.90
+25,178,Chipaque,46.67
+25,181,Choachí,32.17
+25,183,Chocontá,37.14
+25,200,Cogua,23.58
+25,214,Cota,21.60
+25,224,Cucunubá,36.18
+25,245,El Colegio,32.78
+25,258,El Peñón,71.75
+25,260,El Rosal39,29.80
+25,269,Facatativa,21.66
+25,279,Fómeque,35.44
+25,281,Fosca,54.01
+25,286,Funza,26.15
+25,288,Fúquene,32.72
+25,290,Fusagasuga,27.24
+25,293,Gachalá,41.28
+25,295,Gachancipá,29.01
+25,297,Gacheta,40.82
+25,299,Gama,41.95
+25,307,Girardot,24.96
+25,312,Granada40,35.20
+25,317,Guachetá,37.00
+25,320,Guaduas,34.44
+25,322,Guasca,27.68
+25,324,Guataquí,60.81
+25,326,Guatavita,30.79
+25,328,Guayabal de Siquima,43.16
+25,335,Guayabetal,57.80
+25,339,Gutiérrez,65.00
+25,368,Jerusalén,65.09
+25,372,Junín,37.54
+25,377,La Calera,21.08
+25,386,La Mesa,38.70
+25,394,La Palma,57.01
+25,398,La Peña,64.71
+25,402,La Vega,36.42
+25,407,Lenguazaque,37.53
+25,426,Machetá,48.80
+25,430,Madrid,27.04
+25,436,Manta,37.18
+25,438,Medina,61.58
+25,473,Mosquera,40.29
+25,483,Nariño,54.87
+25,486,Nemocón,35.00
+25,488,Nilo,42.63
+25,489,Nimaima,63.63
+25,491,Nocaima,59.41
+25,506,Ospina Pérez,43.29
+25,513,Pacho,35.86
+25,518,Paime,65.00
+25,524,Pandi,41.77
+25,530,Paratebueno,59.14
+25,535,Pasca,36.97
+25,572,Puerto Salgar,38.38
+25,580,Pulí,57.78
+25,592,Quebradanegra,55.31
+25,594,Quetame,53.29
+25,596,Quipile,55.28
+25,599,Rafael Reyes,50.23
+25,612,Ricaurte,50.85
+25,645,San  Antonio del  Tequendama,31.37
+25,649,San Bernardo,42.50
+25,653,San Cayetano,52.85
+25,658,San Francisco,31.62
+25,662,San Juan de Rioseco,38.81
+25,718,Sasaima,39.34
+25,736,Sesquilé,17.58
+25,740,Sibaté,27.19
+25,743,Silvania,39.90
+25,745,Simijaca,28.43
+25,754,Soacha,27.66
+25,758,Sopo,19.37
+25,769,Subachoque,27.61
+25,772,Suesca,30.05
+25,777,Supatá,35.94
+25,779,Susa,40.56
+25,781,Sutatausa,45.68
+25,785,Tabio,21.40
+25,793,Tausa,44.57
+25,797,Tena,38.79
+25,799,Tenjo,20.38
+25,805,Tibacuy,43.99
+25,807,Tibirita,47.49
+25,815,Tocaima,41.51
+25,817,Tocancipá,28.21
+25,823,Topaipí,61.49
+25,839,Ubalá,49.44
+25,841,Ubaque,52.91
+25,843,Ubaté,32.78
+25,845,Une,37.17
+25,851,Utica,58.10
+25,862,Vergara,60.76
+25,867,Viani,39.27
+25,871,Villagomez,47.16
+25,873,Villapinzón,31.48
+25,875,Villeta,42.83
+25,878,Viota,48.40
+25,885,Yacopí,73.11
+25,898,Zipacón,30.01
+25,899,Zipaquirá,19.39
+94,001,Puerto Inirida,100.00
+94,343,CD. Barranco Minas,
+94,663,CD. Mapiripana41,
+94,883,CD. San Felipe,
+94,884,CD. Puerto Colombia,
+94,885,CD. La Guadalupe,
+94,886,CD. Cacahual,
+94,887,CD. Pana Pana,
+94,888,CD. Morichal Nuevo,
+95,001,San José del Guaviare,72.76
+95,015,Calamar,89.27
+95,025,El Retorno,90.76
+95,200,Miraflores,80.91
+41,001,Neiva,26.16
+41,006,Acevedo,56.75
+41,013,Agrado,52.54
+41,016,Aipe,48.28
+41,020,Algeciras,53.02
+41,026,Altamira,32.86
+41,078,Baraya,52.95
+41,132,Campoalegre,42.77
+41,206,Colombia,60.65
+41,244,Elias,39.94
+41,298,Garzón,38.23
+41,306,Gigante,39.38
+41,319,Guadalupe,48.38
+41,349,Hobo,48.18
+41,357,Iquira,54.19
+41,359,Isnos,57.49
+41,378,La Argentina,56.05
+41,396,La Plata,51.83
+41,483,Nataga,66.80
+41,503,Oporapa,55.57
+41,518,Paicol,48.18
+41,524,Palermo,38.01
+41,530,Palestina,58.62
+41,548,Pital,56.93
+41,551,Pitalito,40.00
+41,615,Rivera,41.91
+41,660,Saladoblanco,55.74
+41,668,San Agustín,58.45
+41,676,Santa Maria,51.55
+41,770,Suaza,59.19
+41,791,Tarqui,41.23
+41,797,Tesalia,45.16
+41,799,Tello,51.85
+41,801,Teruel,45.94
+41,807,Timana,40.52
+41,872,Villavieja,49.88
+41,885,Yaguara,40.52
+44,001,Riohacha,57.67
+44,035,Albania42,66.90
+44,078,Barrancas,44.27
+44,090,Dibulla43,68.60
+44,098,Distraccion44,52.40
+44,110,El Molino,60.19
+44,279,Fonseca,49.62
+44,378,Hatonuevo45,48.40
+44,420,La Jagua del Pilar46,91.90
+44,430,Maicao,57.96
+44,560,Manaure,100.00
+44,650,San Juan del Cesar,49.33
+44,847,Uribia,99.43
+44,855,Urumita,59.85
+44,874,Villanueva,49.64
+47,001,Santa Marta,34.76
+47,030,Algarrobo47,63.90
+47,053,Aracataca,61.50
+47,058,Ariguani,76.18
+47,161,Cerro San Antonio,69.62
+47,170,Chivolo,75.69
+47,189,Cienaga,52.72
+47,205,Concordia48,68.40
+47,245,El Banco,64.20
+47,258,El Piñon,65.68
+47,268,El Reten49,66.30
+47,288,Fundacion,51.83
+47,318,Guamal,66.51
+47,460,Nueva Granada50,81.80
+47,541,Pedraza,73.34
+47,545,Pijiño Del Carmen51,78.00
+47,551,Pivijay,62.40
+47,555,Plato,70.71
+47,570,Puebloviejo,71.24
+47,605,Remolino,72.86
+47,660,Sabanas De San Angel52,75.00
+47,675,Salamina,85.09
+47,692,San Sebastian De Buenavista,78.64
+47,703,San Zenon,84.37
+47,707,Santa Ana,73.25
+47,720,Santa Barbara De Pinto53,78.00
+47,745,Sitionuevo,76.57
+47,798,Tenerife,82.00
+47,960,Zapayan54,74.60
+47,980,Zona Bananera55,62.70
+50,001,Villavicencio,25.31
+50,006,Acacias,34.06
+50,110,Barranca de Upia,55.30
+50,124,Cabuyaro,56.82
+50,150,Castilla La Nueva,44.03
+50,223,Cubarral,49.55
+50,226,Cumaral,34.74
+50,245,El Calvario,26.38
+50,251,El Castillo,66.62
+50,270,El Dorado,48.76
+50,287,Fuente de Oro,45.71
+50,313,Granada,36.29
+50,318,Guamal,29.44
+50,325,Mapiripán,82.14
+50,330,Mesetas,74.42
+50,350,La Macarena,80.38
+50,370,La Uribe,91.60
+50,400,Lejanías,54.63
+50,450,Puerto Concordia,89.04
+50,568,Puerto Gaitán,73.34
+50,573,Puerto López,46.84
+50,577,Puerto Lleras,67.92
+50,590,Puerto Rico,82.62
+50,606,Restrepo,35.63
+50,680,San Carlos Guaroa,46.68
+50,683,San  Juan de Arama,64.33
+50,686,San Juanito,24.72
+50,689,San Martín,34.24
+50,711,Vista Hermosa,78.45
+52,1,Pasto,26.60
+52,19,Alban,85.62
+52,22,Aldaña,57.97
+52,36,Ancuya,76.18
+52,51,Arboleda,59.94
+52,79,Barbacoas,88.43
+52,83,Belen,51.17
+52,110,Buesaco,57.45
+52,203,Colon(Genova),65.71
+52,207,Consaca,51.49
+52,210,Contadero,40.12
+52,215,Cordoba,75.22
+52,224,Cuaspud,67.47
+52,227,Cumbal,83.61
+52,233,Cumbitara,74.76
+52,240,Chachagui,58.59
+52,250,El Charco,76.98
+52,254,El Peñol56,80.60
+52,256,El Rosario,99.70
+52,258,El Tablon,70.82
+52,260,El Tambo,73.87
+52,287,Funes,45.10
+52,317,Guachucal,75.78
+52,320,Guaitarilla,78.92
+52,323,Gualmatan,34.75
+52,352,Iles,54.16
+52,354,Imues,63.84
+52,356,Ipiales,36.75
+52,378,La Cruz,41.38
+52,381,La Florida,80.42
+52,385,La Llanada,79.90
+52,390,La Tola,70.80
+52,399,La Union,41.58
+52,405,Leiva,81.35
+52,411,Linares,79.45
+52,418,Los Andes,82.76
+52,427,Magui,96.55
+52,435,Mallama,52.41
+52,473,Mosquera,81.16
+52,480,Nariño57,50.80
+52,490,Olaya Herrera,83.22
+52,506,Ospina,54.30
+52,520,Pizarro,75.70
+52,540,Policarpa,78.97
+52,560,Potosi,64.01
+52,565,Providencia,96.30
+52,573,Puerres,52.49
+52,585,Pupiales,36.74
+52,612,Ricaurte,76.18
+52,621,Roberto Payan,90.05
+52,678,Samaniego,81.76
+52,683,Sandona,56.84
+52,685,San Bernardo,83.72
+52,687,San Lorenzo,61.95
+52,693,San Pablo,63.82
+52,694,San Pedro De Cartago,68.43
+52,696,Santa Barbara,79.03
+52,699,Santacruz,90.40
+52,720,Sapuyes,55.86
+52,786,Taminango,55.14
+52,788,Tangua,46.07
+52,835,Tumaco,57.54
+52,838,Tuquerres,53.05
+52,885,Yacuanquer,48.34
+54,001,Cúcuta,30.86
+54,003,Abrego,71.80
+54,051,Arboledas,60.90
+54,099,Bochalema,37.34
+54,109,Bucarasica,76.70
+54,125,Cácota,47.11
+54,128,Cáchira,61.65
+54,172,Chinácota,31.56
+54,174,Chitagá,56.22
+54,206,Convención,55.85
+54,223,Cucutilla,52.36
+54,239,Durania,47.16
+54,245,El Carmen,72.56
+54,250,El Tarra,86.14
+54,261,El Zulia,56.02
+54,313,Gramalote,42.41
+54,344,Hacari,87.44
+54,347,Herrán,46.50
+54,377,Labateca,52.03
+54,385,La Esperanza58,70.00
+54,398,La Playa,70.47
+54,405,Los Patios,27.53
+54,418,Lourdes,49.45
+54,480,Mutiscua,48.88
+54,498,Ocaña,37.59
+54,518,Pamplona,30.71
+54,520,Pamplonita,47.37
+54,553,Puerto Santander59,53.20
+54,599,Ragonvalia,46.43
+54,660,Salazar,54.71
+54,670,San Calixto,83.09
+54,673,San Cayetano,49.68
+54,680,Santiago,57.91
+54,720,Sardinata,63.93
+54,743,Silos,58.71
+54,800,Teorama,76.44
+54,810,Tibú,68.57
+54,820,Toledo,48.84
+54,871,Villacaro,55.66
+54,874,Villa del Rosario,39.06
+86,001,Mocoa,52.62
+86,219,Colón,61.48
+86,320,Orito,78.54
+86,568,Puerto Asís,71.11
+86,569,Puerto Caycedo,89.35
+86,571,Puerto Guzmán,95.20
+86,573,Puerto Leguízamo,81.28
+86,749,Sibundoy,50.90
+86,755,San Francisco,61.69
+86,757,San Miguel60,100.00
+86,760,Santiago,100.00
+86,865,Valle del Guamuez,93.79
+86,885,Villagarzón,85.21
+63,001,Armenia,17.93
+63,111,Buenavista,27.39
+63,130,Calarcá,25.08
+63,190,Circasia,27.54
+63,212,Córdoba,30.75
+63,272,Filandia,29.61
+63,302,Génova,31.56
+63,401,La Tebaida,37.41
+63,470,Montenegro,33.66
+63,548,Pijao,30.23
+63,594,Quimbaya,34.45
+63,690,Salento,31.34
+66,001,Pereira,22.74
+66,045,Apia,29.04
+66,075,Balboa,34.54
+66,088,Belén de Umbría,34.95
+66,170,Dos Quebradas,20.80
+66,318,Guatica,32.04
+66,383,La Celia,40.63
+66,400,La Virginia,32.87
+66,440,Marsella,33.78
+66,456,Mistrato,59.02
+66,572,Pueblo Rico,54.72
+66,594,Quinchía,48.50
+66,682,Santa Rosa de Cabal,24.72
+66,687,Santuario,32.78
+88,001,San Andrés,34.04
+88,564,Providencia,24.64
+68,001,Bucaramanga,17.86
+68,013,Aguada,59.26
+68,020,Albania,32.72
+68,051,Aratoca,58.82
+68,077,Barbosa,29.47
+68,079,Barichara,45.90
+68,081,Barrancabermeja,29.48
+68,092,Betulia,45.58
+68,101,Bolívar,54.12
+68,121,Cabrera,74.44
+68,132,California,30.60
+68,147,Capitanejo,57.04
+68,152,Carcasi,73.75
+68,160,Cepita,81.04
+68,162,Cerrito,65.01
+68,167,Charalá,32.84
+68,169,Charta,45.56
+68,176,Chima,52.98
+68,179,Chipatá,56.92
+68,190,Cimitarra,58.63
+68,207,Concepción,61.46
+68,209,Confines,49.07
+68,211,Contratación,31.54
+68,217,Coromoro,50.63
+68,229,Curití,44.39
+68,235,El Carmen,70.24
+68,245,El Guacamayo,55.77
+68,250,El Peñón,72.84
+68,255,El Playón,56.04
+68,264,Encino,55.48
+68,266,Enciso,69.13
+68,271,Florián,61.86
+68,276,Floridablanca,16.17
+68,296,Galán,52.93
+68,298,Gambita,60.11
+68,307,Girón,23.97
+68,318,Guaca,59.53
+68,320,Guadalupe,36.50
+68,322,Guapota,34.17
+68,324,Guavatá,33.20
+68,327,Guepsa,47.88
+68,344,Hato,61.02
+68,368,Jesús Maria,45.53
+68,370,Jordán,58.05
+68,377,La Belleza,47.17
+68,385,Landazuri,62.60
+68,397,La Paz,49.87
+68,406,Lebrija,36.81
+68,418,Los Santos,54.60
+68,425,Macaravita,60.80
+68,432,Málaga,25.54
+68,444,Matanza,40.74
+68,464,Mogotes,48.13
+68,468,Molagavita,62.84
+68,498,Ocamonte,46.65
+68,500,Oiba,39.85
+68,502,Onzaga,56.70
+68,522,Palmar,60.40
+68,524,Palmas del Socorro,47.96
+68,533,Páramo,41.05
+68,547,Piedecuesta,23.48
+68,549,Pinchote,33.58
+68,572,Puente Nacional,34.16
+68,573,Puerto Parra,62.74
+68,575,Puerto Wilches,64.02
+68,615,Rionegro,52.89
+68,655,Sabana de Torres,49.35
+68,669,San Andrés,50.84
+68,673,San Benito,45.27
+68,679,San Gil,21.40
+68,682,San Joaquín,57.49
+68,684,San José de Miranda,56.88
+68,686,San Miguel,65.02
+68,689,San Vicente de Chucurí,39.90
+68,705,Santa Bárbara,62.93
+68,720,Santa Helena,61.24
+68,745,Simacota,59.54
+68,755,Socorro,21.42
+68,770,Suaita,43.35
+68,773,Sucre,47.82
+68,780,Surata,54.10
+68,820,Tona,37.63
+68,855,Valle San José,39.15
+68,861,Vélez,40.00
+68,867,Vetas,28.08
+68,872,Villanueva,39.66
+68,895,Zapatoca,27.93
+70,1,Sincelejo,45.84
+70,110,Buenavista,70.81
+70,124,Caimito,80.88
+70,204,Coloso,86.34
+70,215,Corozal,51.13
+70,221,Coveñas61,62.60
+70,230,Chalán,87.33
+70,233,El Roble62,61.90
+70,235,Galeras63,62.50
+70,265,Guaranda,83.92
+70,400,La Unión,80.63
+70,418,Los Palmitos,78.25
+70,429,Majagual,89.20
+70,473,Morroa,72.03
+70,508,Ovejas,74.12
+70,523,Palmito,86.93
+70,670,Sampués,78.81
+70,678,San Benito Abad63,85.70
+70,702,San Juan De Betulia,68.38
+70,708,San Marcos,67.06
+70,713,San Onofre,78.89
+70,717,San Pedro,65.01
+70,742,Sincé,66.73
+70,771,Sucre,87.74
+70,820,Tolú,57.31
+70,823,Toluviejo,69.44
+73,001,Ibagué,21.97
+73,024,Alpujarra,40.48
+73,026,Alvarado,51.54
+73,030,Ambalema,38.84
+73,043,Anzoategui,51.59
+73,055,Armero (Guayabal),32.59
+73,067,Ataco,72.13
+73,124,Cajamarca,38.56
+73,148,Carmen de Apicalá,34.58
+73,152,Casabianca,42.61
+73,168,Chaparral,55.66
+73,200,Coello,53.08
+73,217,Coyaima,91.57
+73,226,Cunday,47.63
+73,236,Dolores,42.61
+73,268,Espinal,33.92
+73,270,Falán,49.67
+73,275,Flandes,32.92
+73,283,Fresno,41.02
+73,319,Guamo,42.86
+73,347,Herveo,39.72
+73,349,Honda,22.72
+73,352,Icononzo,43.06
+73,408,Lérida,29.28
+73,411,Líbano,31.83
+73,443,Mariquita,35.74
+73,449,Melgar,35.85
+73,461,Murillo,46.89
+73,483,Natagaima,59.18
+73,504,Ortega,72.44
+73,520,Palocabildo64,47.40
+73,547,Piedras,47.14
+73,555,Planadas,66.43
+73,563,Prado,43.36
+73,585,Purificación,41.78
+73,616,Rioblanco,68.53
+73,622,Roncesvalles,46.32
+73,624,Rovira,58.05
+73,671,Saldaña,37.87
+73,675,San Antonio,57.95
+73,678,San Luis,58.34
+73,686,Santa Isabel,45.90
+73,770,Suárez,61.30
+73,854,Valle de San Juan,58.14
+73,861,Venadillo,41.85
+73,870,Villahermosa,40.88
+73,873,Villarrica,41.36
+76,001,Cali,20.64
+76,020,Alcalá,37.55
+76,036,Andalucía,27.34
+76,041,Ansermanuevo,40.33
+76,054,Argelia,31.31
+76,100,Bolívar,35.95
+76,109,Buenaventura,36.04
+76,111,Buga,21.30
+76,113,Bugalagrande,29.06
+76,122,Caicedonia,29.47
+76,126,Calima (Darien),29.89
+76,130,Candelaria,28.37
+76,147,Cartago,22.37
+76,233,Dagua,35.28
+76,243,El Aguila,35.69
+76,246,El Cairo,38.69
+76,248,El Cerrito,27.97
+76,250,El Dovio,39.53
+76,275,Florida,33.00
+76,306,Ginebra,34.06
+76,318,Guacari,27.90
+76,364,Jamundí,27.69
+76,377,La Cumbre,28.45
+76,400,La Unión,29.98
+76,403,La Victoria,34.25
+76,497,Obando,41.07
+76,520,Palmira,21.62
+76,563,Pradera,35.86
+76,606,Restrepo,37.03
+76,616,Riofrío,39.72
+76,622,Roldanillo,27.96
+76,670,San Pedro,29.82
+76,736,Sevilla,28.20
+76,823,Toro,32.78
+76,828,Trujillo,30.41
+76,834,Tulúa,24.24
+76,845,Ulloa,35.67
+76,863,Versalles,36.37
+76,869,Vijes,34.75
+76,890,Yotoco,31.12
+76,892,Yumbo,30.68
+76,895,Zarzal,25.00
+97,001,Mitu65,100.00
+97,161,Carurú,100.00
+97,511,CD. Pacoa,100.00
+97,666,Taraira,100.00
+97,777,CD. Papunaua,100.00
+97,889,CD. Yavarate,100.00
+,,Villa Fátima*,
+,,Acaricuara*,
+99,001,Puerto Carreño,56.72
+99,524,La Primavera,85.81
+99,624,Santa Rosalía,100.00
+99,773,Cumaribo66,100.00
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
