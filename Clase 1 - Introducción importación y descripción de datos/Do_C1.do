@@ -1,8 +1,9 @@
 *********************************************************
 **   Universidad de los Andes - Facultad de Economía   **
-**   			   Taller de Stata 2020-II             **
+**   			     Taller de Stata 		           **
 **												       **
-** 			  	    Miguel Garzón-Ramírez              **
+** 			  	  Miguel Garzón-Ramírez                **
+**				  Cristhian Acosta-Pardo  			   **
 ** 			   						                   **
 ** Clase 1 - Introducción e importación  de variables  **
 *********************************************************
@@ -89,8 +90,8 @@ dis /* Se separa la ejecución de un comando en varias líneas
 * II) Exploración de bases con comandos en Stata *
 **************************************************
 clear all 
-* 1. Defina el directorio de trabajo (¿Dónde están los datos? ¿Donde se guardan los resultados?)
-cd "G:\Mi unidad\4_DOCENCIA\Taller de Stata\2020-II\4 - Clases\Clase 1 - Introducción importación y descripción de datos"
+* 1. Defina el directorio de trabajo (Coloque entre las comillas de la siguiente línea la dirección completa de la carpeta donde están los datos. Por defecto, en esta misma se guardarán los resultados)
+cd "______"
 
 * 2. Cargue la base de datos de la clase.
 use "notas", clear 
@@ -132,7 +133,7 @@ log using "bitacora_C1.log", replace // Note que en la ventana de resultados apa
 * Sino se especifica el formato de texto .log, por defecto, Stata crea un archivo con extensión .smcl
 
 * 2. Repitamos los comandos de la exploración que hicimos anteriormente
-	cd "G:\Mi unidad\4_DOCENCIA\Taller de Stata\2020-II\4 - Clases\Clase 1 - Introducción importación y descripción de datos" 
+	cd "______" // Coloque entre las comillas la dirección completa de la carpeta donde están los datos
 	use "notas", clear  
 	describe // 3. Expore la base base de datos
 	codebook
@@ -168,8 +169,9 @@ view bitacora_C1.log
 clear all
 cap log close
 
+cd "______" // Coloque entre las comillas la dirección completa de la carpeta donde están los datos
 log using "bitacora_C1_importacion.log", replace
-cd "G:\Mi unidad\4_DOCENCIA\Taller de Stata\2020-II\4 - Clases\Clase 1 - Introducción importación y descripción de datos" 
+
 dir // ¿Que hay en la carpeta?
 
 * 1 Archivo Excel

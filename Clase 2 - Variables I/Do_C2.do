@@ -1,19 +1,19 @@
 *****************************************************
 ** Universidad de los Andes - Facultad de Economía **
-** 			    Taller de Stata 2020-II            **
+** 			       Taller de Stata            	   **
 **												   **
 ** 				Miguel Garzón-Ramírez              **
 ** 			   Cristhian Acosta-Pardo              **
 ** 			   						               **
 ** 				Clase 2 - Variables-I              **
 *****************************************************
-* Empezamos los do-files limpiando el espacio de trabajo y especificando los comando que permiten la ejecución continua
+* Empezamos los do-file limpiando el espacio de trabajo y especificando los comando que permiten la ejecución continua
 
 clear all
 cap log close
 set more off
 
-cd "G:\Mi unidad\4_DOCENCIA\Taller de Stata\2020-II\4 - Clases\Clase 2 - Variables I"
+cd "______" // Coloque entre las comillas la dirección completa de la carpeta donde están los datos. Por defecto, en esta misma se guardarán los resultados y las bitácoras que cree.
 log using "log_clase2.log", replace
 
 dir // ¿Que hay en la carpeta?

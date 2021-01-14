@@ -1,6 +1,6 @@
 *****************************************************
 ** Universidad de los Andes - Facultad de Economía **
-** 			   Taller de Stata 2020-II             **
+** 			       Taller de Stata            	   **
 **												   **
 ** 				Miguel Garzón-Ramirez              **
 ** 			   Cristhian Acosta-Pardo              **
@@ -12,11 +12,8 @@ clear all
 cap log close
 set more off 
 
+cd "_____" // Coloque entre las comillas la dirección completa de la carpeta donde están los datos. Por defecto, en esta misma se guardarán los resultados y las bitácoras que cree.
 log using "log_clase3", replace
-
-*cd "C:\Users/`c(username)'\Dropbox\Taller de Stata\2020-II\4 - Clases\Clase 3 - Variables II"
-cd "G:\Mi unidad\4_DOCENCIA\Taller de Stata\2020-II\4 - Clases\Clase 3 - Variables II"
-
 use "Base_clase_3", replace 
 *----------*
 * Contexto: 

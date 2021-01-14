@@ -1,6 +1,6 @@
 *****************************************************
 ** Universidad de los Andes - Facultad de Economía **
-** 			   Taller de Stata 2020-II             **
+** 			       Taller de Stata            	   **
 **												   **
 ** 				Miguel Garzón-Ramirez              **
 ** 			   Cristhian Acosta-Pardo              **
@@ -11,8 +11,7 @@
 clear all 
 cap log close
 set more off
-cd "G:\Mi unidad\4_DOCENCIA\Taller de Stata\2020-II\4 - Clases\Clase 4 - Variables III - Fechas y Tiempo"
-
+cd "_____" // Coloque entre las comillas la dirección completa de la carpeta donde están los datos. 
 *------------------*
 *I. Fechas y tiempo*
 *------------------*
@@ -30,7 +29,7 @@ gen fecnac00=date(nac,"MDY",2020)
 sum fecnac  // Vemos que la variable es un número, pero no se puede inferir a partir de él de qué fecha estamos hablando
 format fecnac* %td
 * Calcular la edad de las personas
-gen age=td(31aug2020)-fecnac  // Para realizar operaciones, las variables de tiempo deben estar en la misma unidad
+gen age=td(31aug2020)-fecnac  // Para realizar operaciones las variables de tiempo deben estar en la misma unidad. Puede cambiar la fecha con el mismo formato de la función td(dia en número, tres primeras letras del mes en inglés, año en número)
 replace age=age/365.25  //  365 días y 6 horas (calendario egipcio)
 replace age=floor(age)
 
