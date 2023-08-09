@@ -1,6 +1,6 @@
-# Stata
+# Taller de Análisis de Datos Stata
 
-Bienvenido al curso Taller de Stata.
+Bienvenido al curso Taller de Análisis de Datos Stata.
 Estas clases ha sido grabadas por Miguel Andrés Garzón Ramírez durante el segundo semestre del año 2020 en la Facultad de Economía de la Universidad de los Andes, Colombia.
 
 El material ha sido diseñado y adaptado según el paso del tiempo por los profesores responsables de este curso en la facultad: Rodrigo Azuero Melo, Nicolás de Roux, Luis Roberto Martínez, Román Andrés Zárate, Santiago Gómez Echeverry, Cristhian Acosta Pardo y Miguel Andrés Garzón Ramírez.
